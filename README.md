@@ -1,2 +1,3 @@
-# final_lab_exam_cs121_Escueta
-Final Lab Exam CS121
+# Final Lab Exam CS121
+
+Finals Video Link: https://drive.google.com/drive/folders/1y1ungzxk1ZL-wscLXQu_tcXb-VM5_LDu?usp=sharing
