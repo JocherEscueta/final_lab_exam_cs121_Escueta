@@ -88,7 +88,7 @@ class DiceGame(UserManager):
 						self.save_scores(user_points, wins)
 						break
 					case 1: 
-						current_round = 1
+						current_round = 0
 						current_points = 0
 						continue
 			else: 
